@@ -1,0 +1,97 @@
+treatment_distribution,BinaryChoice,valuation_positive,ad_interim_round,chose_AGV,chose_SM,chose_RAND,chose_NSQ,total
+symmetric,AGV vs. SM,0,0,43.0,5.0,0.0,0.0,48.0
+symmetric,AGV vs. SM,0,1,20.0,2.0,0.0,0.0,22.0
+symmetric,AGV vs. SM,1,0,36.0,6.0,0.0,0.0,42.0
+symmetric,AGV vs. SM,1,1,17.0,6.0,0.0,0.0,23.0
+symmetric,SM vs. RAND,0,0,0.0,43.0,2.0,0.0,45.0
+symmetric,SM vs. RAND,0,1,0.0,20.0,1.0,0.0,21.0
+symmetric,SM vs. RAND,1,0,0.0,44.0,1.0,0.0,45.0
+symmetric,SM vs. RAND,1,1,0.0,22.0,2.0,0.0,24.0
+symmetric,AGV vs. RAND,0,0,37.0,0.0,4.0,0.0,41.0
+symmetric,AGV vs. RAND,0,1,24.0,0.0,2.0,0.0,26.0
+symmetric,AGV vs. RAND,1,0,44.0,0.0,5.0,0.0,49.0
+symmetric,AGV vs. RAND,1,1,14.0,0.0,5.0,0.0,19.0
+symmetric,AGV vs. NSQ,0,0,41.0,0.0,0.0,4.0,45.0
+symmetric,AGV vs. NSQ,0,1,22.0,0.0,0.0,2.0,24.0
+symmetric,AGV vs. NSQ,1,0,43.0,0.0,0.0,2.0,45.0
+symmetric,AGV vs. NSQ,1,1,19.0,0.0,0.0,2.0,21.0
+symmetric,NSQ vs. RAND,0,0,0.0,0.0,39.0,10.0,49.0
+symmetric,NSQ vs. RAND,0,1,0.0,0.0,25.0,1.0,26.0
+symmetric,NSQ vs. RAND,1,0,0.0,0.0,32.0,9.0,41.0
+symmetric,NSQ vs. RAND,1,1,0.0,0.0,19.0,0.0,19.0
+symmetric,SM vs. NSQ,0,0,0.0,43.0,0.0,0.0,43.0
+symmetric,SM vs. NSQ,0,1,0.0,22.0,0.0,2.0,24.0
+symmetric,SM vs. NSQ,1,0,0.0,47.0,0.0,0.0,47.0
+symmetric,SM vs. NSQ,1,1,0.0,21.0,0.0,0.0,21.0
++7,AGV vs. SM,0,0,33.0,3.0,0.0,0.0,36.0
++7,AGV vs. SM,0,1,24.0,0.0,0.0,0.0,24.0
++7,AGV vs. SM,1,0,42.0,6.0,0.0,0.0,48.0
++7,AGV vs. SM,1,1,17.0,1.0,0.0,0.0,18.0
++7,SM vs. RAND,0,0,0.0,41.0,2.0,0.0,43.0
++7,SM vs. RAND,0,1,0.0,17.0,4.0,0.0,21.0
++7,SM vs. RAND,1,0,0.0,38.0,3.0,0.0,41.0
++7,SM vs. RAND,1,1,0.0,18.0,3.0,0.0,21.0
++7,AGV vs. RAND,0,0,39.0,0.0,5.0,0.0,44.0
++7,AGV vs. RAND,0,1,13.0,0.0,4.0,0.0,17.0
++7,AGV vs. RAND,1,0,36.0,0.0,4.0,0.0,40.0
++7,AGV vs. RAND,1,1,19.0,0.0,6.0,0.0,25.0
++7,AGV vs. NSQ,0,0,44.0,0.0,0.0,2.0,46.0
++7,AGV vs. NSQ,0,1,14.0,0.0,0.0,4.0,18.0
++7,AGV vs. NSQ,1,0,38.0,0.0,0.0,0.0,38.0
++7,AGV vs. NSQ,1,1,20.0,0.0,0.0,3.0,23.0
++7,NSQ vs. RAND,0,0,0.0,0.0,32.0,14.0,46.0
++7,NSQ vs. RAND,0,1,0.0,0.0,18.0,1.0,19.0
++7,NSQ vs. RAND,1,0,0.0,0.0,27.0,11.0,38.0
++7,NSQ vs. RAND,1,1,0.0,0.0,21.0,2.0,23.0
++7,SM vs. NSQ,0,0,0.0,48.0,0.0,0.0,48.0
++7,SM vs. NSQ,0,1,0.0,14.0,0.0,3.0,17.0
++7,SM vs. NSQ,1,0,0.0,36.0,0.0,0.0,36.0
++7,SM vs. NSQ,1,1,0.0,24.0,0.0,1.0,25.0
+-7,AGV vs. SM,0,0,46.0,2.0,0.0,0.0,48.0
+-7,AGV vs. SM,0,1,17.0,4.0,0.0,0.0,21.0
+-7,AGV vs. SM,1,0,39.0,3.0,0.0,0.0,42.0
+-7,AGV vs. SM,1,1,23.0,1.0,0.0,0.0,24.0
+-7,SM vs. RAND,0,0,0.0,40.0,4.0,0.0,44.0
+-7,SM vs. RAND,0,1,0.0,16.0,9.0,0.0,25.0
+-7,SM vs. RAND,1,0,0.0,43.0,3.0,0.0,46.0
+-7,SM vs. RAND,1,1,0.0,18.0,2.0,0.0,20.0
+-7,AGV vs. RAND,0,0,54.0,0.0,4.0,0.0,58.0
+-7,AGV vs. RAND,0,1,10.0,0.0,13.0,0.0,23.0
+-7,AGV vs. RAND,1,0,29.0,0.0,3.0,0.0,32.0
+-7,AGV vs. RAND,1,1,17.0,0.0,5.0,0.0,22.0
+-7,AGV vs. NSQ,0,0,36.0,0.0,0.0,2.0,38.0
+-7,AGV vs. NSQ,0,1,26.0,0.0,0.0,0.0,26.0
+-7,AGV vs. NSQ,1,0,48.0,0.0,0.0,4.0,52.0
+-7,AGV vs. NSQ,1,1,19.0,0.0,0.0,0.0,19.0
+-7,NSQ vs. RAND,0,0,0.0,0.0,34.0,10.0,44.0
+-7,NSQ vs. RAND,0,1,0.0,0.0,20.0,2.0,22.0
+-7,NSQ vs. RAND,1,0,0.0,0.0,37.0,9.0,46.0
+-7,NSQ vs. RAND,1,1,0.0,0.0,22.0,1.0,23.0
+-7,SM vs. NSQ,0,0,0.0,48.0,0.0,2.0,50.0
+-7,SM vs. NSQ,0,1,0.0,9.0,0.0,3.0,12.0
+-7,SM vs. NSQ,1,0,0.0,39.0,0.0,1.0,40.0
+-7,SM vs. NSQ,1,1,0.0,31.0,0.0,2.0,33.0
+three neg,AGV vs. SM,0,0,22.0,4.0,0.0,0.0,26.0
+three neg,AGV vs. SM,0,1,14.0,0.0,0.0,0.0,14.0
+three neg,AGV vs. SM,1,0,9.0,1.0,0.0,0.0,10.0
+three neg,AGV vs. SM,1,1,4.0,0.0,0.0,0.0,4.0
+three neg,SM vs. RAND,0,0,0.0,25.0,2.0,0.0,27.0
+three neg,SM vs. RAND,0,1,0.0,6.0,3.0,0.0,9.0
+three neg,SM vs. RAND,1,0,0.0,9.0,0.0,0.0,9.0
+three neg,SM vs. RAND,1,1,0.0,7.0,2.0,0.0,9.0
+three neg,AGV vs. RAND,0,0,24.0,0.0,3.0,0.0,27.0
+three neg,AGV vs. RAND,0,1,2.0,0.0,10.0,0.0,12.0
+three neg,AGV vs. RAND,1,0,6.0,0.0,2.0,0.0,8.0
+three neg,AGV vs. RAND,1,1,5.0,0.0,1.0,0.0,6.0
+three neg,AGV vs. NSQ,0,0,22.0,0.0,0.0,3.0,25.0
+three neg,AGV vs. NSQ,0,1,12.0,0.0,0.0,0.0,12.0
+three neg,AGV vs. NSQ,1,0,11.0,0.0,0.0,0.0,11.0
+three neg,AGV vs. NSQ,1,1,6.0,0.0,0.0,0.0,6.0
+three neg,NSQ vs. RAND,0,0,0.0,0.0,21.0,4.0,25.0
+three neg,NSQ vs. RAND,0,1,0.0,0.0,12.0,1.0,13.0
+three neg,NSQ vs. RAND,1,0,0.0,0.0,10.0,1.0,11.0
+three neg,NSQ vs. RAND,1,1,0.0,0.0,5.0,0.0,5.0
+three neg,SM vs. NSQ,0,0,0.0,24.0,0.0,0.0,24.0
+three neg,SM vs. NSQ,0,1,0.0,9.0,0.0,2.0,11.0
+three neg,SM vs. NSQ,1,0,0.0,11.0,0.0,1.0,12.0
+three neg,SM vs. NSQ,1,1,0.0,4.0,0.0,3.0,7.0

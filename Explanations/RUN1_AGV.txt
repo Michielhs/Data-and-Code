@@ -1,0 +1,15 @@
+AGV (Arrow-d'Aspremont-Gerard-Varet): Each group member states their valuation for project A. If the sum of all stated valuations is greater than 0, project A is implemented. If the sum is less than or equal to 0, the project is not implemented. Each participant must state a valuation, which can be their true valuation or any other possible value. The sum is calculated based solely on the stated valuations, ignoring true valuations.
+
+Furthermore, transfer payments are involved with this decision rule. The amount of transfer payment depends on both the stated valuation of the participant and the stated valuations of the other group members. The table below outlines the transfers you receive/pay based on your stated valuation and the stated valuations of others. However, you won’t know the actual valuations or stated valuations of the other members.
+
+Here's a simplified representation of the table:
+
+| Your Statement | Others' Statements |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3 | 3 | 1 | -1 | -1 | -1 | 3 | 1 | -1 | 1 |
+| 3 | 0 | -0.125 | -0.125 | -0.25 | -0.25 | 0 | -0.125 | -0.125 | -0.25 |
+| 1 | 0.25 | 0.125 | 0.125 | 0 | 0 | 0.25 | 0.125 | 0.125 | 0 |
+| -1 | 0.25 | 0.125 | 0.125 | 0 | 0 | 0.25 | 0.125 | 0.125 | 0 |
+| -3 | 0 | -0.125 | -0.125 | -0.25 | -0.25 | 0 | -0.125 | -0.125 | -0.25 |
+
+This table shows the transfers for all possible combinations. The first column represents your stated valuation, while the columns to the right indicate transfers based on the statements of other group members. Keep in mind that transfer payments are independent of your true valuation and whether project A is implemented. You may receive or pay a transfer even if project A is not implemented.

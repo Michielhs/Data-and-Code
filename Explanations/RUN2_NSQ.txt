@@ -1,0 +1,16 @@
+NSQ (Non-implementation Status Quo):
+
+Overview:
+The Non-implementation Status Quo (NSQ) rule is a decision-making framework where Project A is not implemented under any circumstances.
+
+Procedure:
+
+Non-implementation of Project A:
+
+Under the NSQ rule, Project A will not be implemented, regardless of any valuations or decisions made by the group members.
+
+Part 2 Actions:
+In Part 2 of the experiment, no further actions are required from the group members. There are no statements or decisions needed concerning Project A since the implementation is already ruled out by the NSQ decision rule.
+
+Result:
+Since Project A is not implemented, all group members will receive a payoff of 0 euros. This outcome is fixed and does not depend on any inputs or decisions from the participants during Part 2.

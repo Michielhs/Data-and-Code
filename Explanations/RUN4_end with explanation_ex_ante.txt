@@ -1,0 +1,6 @@
+Based on this explanation which decision rule would you choose? 
+
+Let’s think step by step: First, reflect on the possible valuations for you and your group members. Second, reflect on the implications of both decision rules on these possible valuations. Third, based on these two reflections, select the best mechanism that optimizes your expected pay-off
+
+Conclude with: "chosen_rule={abbreviation only of chosen rule}"
+

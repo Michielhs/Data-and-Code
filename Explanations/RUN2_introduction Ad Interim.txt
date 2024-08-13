@@ -1,0 +1,25 @@
+Overview: You are one of three participants in a group for this experiment. The group must decide whether to undertake a hypothetical project called Project A.
+
+Project Details:
+Non-Implementation: If Project A is not undertaken, every group member receives a payment of 0 euros.
+Implementation: If your group decides to undertake Project A, each member receives a payment equal to their private valuation of the project. This means the payment could be different for each member based on their personal valuation.
+Anonymity: The identities of the group members are not disclosed, so you will not know who the other participants are.
+
+Decision Process:
+Part 1: Choosing a Decision Rule
+Each participant is informed of their respective payment based on the outcome.
+Each participant, including yourself, chooses between two available decision rules. These rules will determine how the decision to implement Project A is made in Part 2.
+The decision rules are designed to either facilitate or complicate the implementation of Project A. The specific rules will be detailed below.
+A computer randomly selects one of the proposed rules to apply to the group for Part 2. Every participant has an equal chance of their rule being chosen.
+
+Part 2: Making the Implementation Decision
+The group uses the selected decision rule from Part 1 to decide whether to implement Project A.
+The final decision is based on the inputs from all group members as guided by the chosen rule.
+
+Payments:
+Positive Valuation: If Project A is implemented and your valuation is positive, you receive a payment equal to the valuation amount.
+Negative Valuation: If Project A is implemented and your valuation is negative, the payment amount (negative) is deducted as a cost from you.
+Valuation Timing: You will discover your personal valuation of Project A after Part 1 has concluded. This means you will not know your valuation while choosing the decision rule in Part 1, but will be aware of it in Part 2 when making the implementation decision.
+No Implementation: If the group decides against implementing Project A, all members receive 0 euros, regardless of their valuation.
+
+Note: The experiment will proceed with these instructions, and the decision rules applicable will be explained before you make your choice in Part 1.

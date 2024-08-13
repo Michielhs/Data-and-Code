@@ -1,0 +1,15 @@
+RAND (Random Coin Flip): 
+Overview:
+The Flipping a Random Coin (RAND) rule determines the implementation of Project A based solely on the outcome of a coin flip, without any voting or input from the participants.
+
+Procedure:
+Coin Flip Determination:
+The decision to implement or not implement Project A is made by flipping a coin.
+If the coin flip results in HEADS, Project A will be implemented.
+If the coin flip results in TAILS, Project A will not be implemented.
+
+Probability of Outcomes:
+Both outcomes, HEADS and TAILS, have an equal probability of occurring. Each outcome has a 50% chance.
+
+Result:
+The implementation of Project A is entirely dependent on this random coin flip, and no further actions or decisions are required from the group members.

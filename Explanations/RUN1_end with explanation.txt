@@ -1,0 +1,3 @@
+Which decision rule would you prefer based on this information?
+
+Please respond with the abbreviation of your chosen rule, followed by a brief explanation in one sentence.

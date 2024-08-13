@@ -1,0 +1,5 @@
+Based on this explanation which decision rule would you choose? 
+
+Let’s think step by step: First, reflect on the possible valuations of your group members. Second, reflect on your own private valuation (is it positive or negative to implement the project?). Third, reflect on the implications of both decision rules, given your private valuation. Fourth, based on these two reflections, select the best mechanism that optimizes your pay-off
+
+Conclude with: "chosen_rule={abbreviation only of chosen rule}"

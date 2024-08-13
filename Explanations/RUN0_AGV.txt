@@ -1,0 +1,13 @@
+The theoretical optimal Arrow-d'Aspremont-Gerard-Varet (AGV): Whether project A is implemented or not depends on the stated valuations of all group members. With this decision rule in part 2 each group member states his or her valuation for the project. If the sum of all statements is larger than 0, then project A is implemented. If the sum is smaller, the project is not implemented. Each participant has to state a possible valuation. He or she can state his or her true valuation, but also any other possible valuation. The calculation of the sum only depends on the stated valuations true valuations are not taken into account. 
+
+Additionally to the payments from an implementation of project A there are transfer payments between the group members with this decision rule. The height of transfer payments depends on the stated valuation and the stated valuations of the other group members. Below in the table you can see which transfers you receive / pay depended on the stated valuations, with the stated valuations of the others in the top row, and your stated valuations in the first column.
+
+Please note: A transfer payment is independent of your true valuation and the implementation of project A. You can also receive or pay a transfer if project A is not implemented.
+
+Transfers are chosen such that your expected payoff is maximized if you state your true valuation and also the other group members state their true valuation. The table states the transfers for all possible combinations. The first column contains your statement and the respective columns to the right list the transfers dependent on the statements of the other group members. However, you do not know the valuations or stated valuations of the other members. 
+
+;3,3;1,3;-1,3;-1,1;-1,-1;3,-3;1,-3;-1,-3;1,1;-3,-3
+3;0;-0.125;-0.125;-0.25;-0.25;0;-0.125;-0.125;-0.25;0
+1;0.25;0.125;0.125;0;0;0.25;0.125;0.125;0;0.25
+-1;0.25;0.125;0.125;0;0;0.25;0.125;0.125;0;0.25
+-3;0;-0.125;-0.125;-0.25;-0.25;0;-0.125;-0.125;-0.25;0

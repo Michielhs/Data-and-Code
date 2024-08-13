@@ -1,0 +1,1 @@
+SM (Simple Majority): All group members vote either for or against the implementation of project A. For the project to be implemented, at least two group members must vote in favor of it. If fewer than two members vote for implementation, project A is not implemented.

@@ -1,0 +1,34 @@
+AGV (Arrow-d'Aspremont-Gerard-Varet): 
+Objective:
+The objective is to decide whether to implement Project A based on the combined valuations stated by all group members.
+
+Procedure:
+Stating Valuations:
+
+Each participant in the group, including you, must state a valuation for Project A. This can be your true valuation or any other value you choose to declare.
+The decision to implement Project A is based on the sum of these stated valuations.
+If the total sum of the stated valuations exceeds 0, Project A is implemented. If the sum is less than or equal to 0, it is not implemented.
+
+Transfer Payments:
+In addition to the payments resulting from the implementation of Project A, there are transfer payments between group members based on the valuations they state.
+The amount of transfer payments you give or receive is dependent on both your stated valuation and the valuations stated by other members.
+These transfers are structured to maximize your expected payoff when all participants state their true valuations.
+Table of Transfer Payments:
+
+The table provided outlines the transfer payments you might receive or pay, based on the combination of stated valuations within the group.
+You can find the amount of transfer applicable to you by locating your stated valuation in the first column and matching it with the valuations stated by others, which are listed in the top row of the table.
+Note: Transfer payments are calculated independently of the actual implementation of Project A and your true valuation.
+
+Important Notes:
+You will not know the true or stated valuations of other group members.
+Transfer payments occur regardless of whether Project A is implemented or not.
+Example of Transfer Table:
+
+Your Stated Valuation	Stated Valuations of Others	Transfer Payments
+3	3, 3	0
+3	1, 3	-0.125
+1	-1, 3	0.125
+-1	-3, -3	0.25
+-3	1, 1	-0.25
+This table shows the transfer payments based on various combinations of valuations as stated by you and the other group members.
+By adhering to these instructions, you should be able to effectively participate in the experiment using the AGV decision rule.

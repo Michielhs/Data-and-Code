@@ -1,0 +1,1 @@
+Flipping a random coin (RAND): The decision for or against implementation of project A depends on the result of a coin flip. There is not voting. If the coin flip results in HEADS, the project is implemented. If the coin flip is TAILS, the project is not implemented. Both results, HEADS and TAILS, are equally likely.

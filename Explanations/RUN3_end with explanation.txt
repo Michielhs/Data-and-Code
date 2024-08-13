@@ -1,0 +1,6 @@
+Based on this explanation which decision rule would you choose? 
+
+Let’s think step by step before answering 
+
+Conclude with: "chosen_rule={abbreviation only of chosen rule}"
+

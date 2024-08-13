@@ -1,0 +1,6 @@
+Task:
+Based on the information provided about each decision rule, you are to choose the decision rule you prefer.
+
+Response Format:
+State Your Choice: Please respond by specifying the abbreviation of the decision rule you prefer.
+Justify Your Choice: Follow your choice with a brief explanation, limited to one sentence, explaining why you chose that particular rule.

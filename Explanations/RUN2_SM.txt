@@ -1,0 +1,17 @@
+SM (Simple Majority):
+
+Overview:
+The Simple Majority (SM) rule involves a voting process by all group members to decide whether to implement Project A.
+
+Procedure:
+Voting Process:
+
+Each group member, including you, will vote either for or against the implementation of Project A.
+Members will explicitly state their vote as either "for" or "against."
+
+Decision Criteria:
+For Project A to be implemented, at least two out of the three group members must vote in favor of implementation.
+If fewer than two members vote for implementation, Project A will not be implemented.
+
+Outcome:
+The decision to implement or not implement Project A is based solely on the majority vote of the group members.

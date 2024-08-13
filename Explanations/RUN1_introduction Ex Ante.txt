@@ -1,0 +1,7 @@
+You are part of a group with 3 members, including yourself and two other participants chosen randomly. Your group has the option to undertake a project, referred to as project A. If the project isn’t undertaken, each member receives no payment. If project A is undertaken, each member receives payment based on their personal valuation of the project. Each member may value project A differently. You won’t know the identities of the other group members.
+
+The decision process has two parts. In the first part, each member suggests one of two decision rules for determining whether project A will be undertaken in the second part. A computer randomly selects one suggestion as the group rule. This rule determines the decision-making process for project A in the second part.
+
+In the second part, the chosen decision rule is used to decide whether project A will be undertaken. The group decision is based on the choices of all members. Payments are then determined and distributed accordingly.
+
+If project A is undertaken, payments are based on individual valuations. If your valuation of project A is positive, you benefit from its implementation; if negative, you incur a cost if the project proceeds. You learn your valuation after part one, so you won’t know it when suggesting decision rules. If project A isn’t undertaken, each member receives no payment, regardless of their valuation.

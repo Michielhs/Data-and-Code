@@ -1,0 +1,2 @@
+Simple majority vote (SM): At least two group members have to vote for the implementation of project A. In part II all group members vote either for or against the implementation of project A. At least 2 group members have to vote for the implementation, otherwise project A is not implemented.
+
